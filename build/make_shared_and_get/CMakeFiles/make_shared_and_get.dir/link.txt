@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/make_shared_and_get.dir/make_shared_and_get.cc.o  -o make_shared_and_get 

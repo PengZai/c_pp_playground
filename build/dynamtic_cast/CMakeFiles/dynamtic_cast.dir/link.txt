@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/dynamtic_cast.dir/dynamtic_cast.cc.o  -o dynamtic_cast 

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/pipeline.cc
+pipeline.hpp
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/pipeline.hpp
+
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/pipeline.hpp
+virtual_and_pure_virtual.hpp
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/virtual_and_pure_virtual.hpp
+
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/pipelineModule.cc
+pipelineModule.hpp
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/pipelineModule.hpp
+
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/pipelineModule.hpp
+iostream
+-
+string
+-
+
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/virtual_and_pure_virtual.cc
+virtual_and_pure_virtual.hpp
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/virtual_and_pure_virtual.hpp
+pipeline.hpp
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/pipeline.hpp
+
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/virtual_and_pure_virtual.hpp
+iostream
+-
+string
+-
+pipelineModule.hpp
+/home/zhongzhipeng/vscode_projects/c_pp_playground/virtual_and_pure_virtual/pipelineModule.hpp
+

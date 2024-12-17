@@ -10,7 +10,7 @@ add_subdirectory(optional)
 add_subdirectory(ref)
 add_subdirectory(virtual_and_override)
 add_subdirectory(virtual_and_pure_virtual)
-
+add_subdirectory(dynamtic_cast)
 
 
 
